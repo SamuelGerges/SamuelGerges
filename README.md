@@ -146,6 +146,16 @@
 
 <br/>
 
+### 📈 Activity Graph
+
+<div align="center">
+
+[![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelGerges&theme=react-dark&hide_border=true)](https://github.com/SamuelGerges)
+
+</div>
+
+<br/>
+
 ### 🤝 Let's Connect
 
 Open to backend / full-stack opportunities, collaborations, and good technical conversations. For full role-by-role experience, check my LinkedIn.
