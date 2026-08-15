@@ -146,11 +146,11 @@
 
 <br/>
 
-### 📈 Activity Graph
+### 🏆 Achievements
 
 <div align="center">
 
-[![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelGerges&theme=merko&hide_border=true)](https://github.com/SamuelGerges)
+[![Samuel's GitHub Trophies](https://github-trophies.devomb.com/?username=SamuelGerges&theme=gitdimmed&no-bg=false&margin-w=10&margin-h=10&row=2&column=4)](https://github.com/SamuelGerges)
 
 </div>
 
