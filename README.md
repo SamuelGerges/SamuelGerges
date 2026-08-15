@@ -150,7 +150,7 @@
 
 <div align="center">
 
-[![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelGerges&theme=react-dark&hide_border=true)](https://github.com/SamuelGerges)
+[![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelGerges&theme=merko&hide_border=true)](https://github.com/SamuelGerges)
 
 </div>
 
